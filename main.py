@@ -47,7 +47,7 @@ def bot_login():
 	password = config.password,
 	client_id = config.client_id,
 	client_secret = config.client_secret,
-	user_agent = "The Reddit commenter v1.0",
+	user_agent = "The Reddit comment pin script",
 	check_for_updates=False,
 	comment_kind="t1",
 	message_kind="t4",
