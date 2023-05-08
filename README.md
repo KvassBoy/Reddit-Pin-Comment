@@ -9,6 +9,7 @@ Any message after the "m!pin" command will be extracted, then commented by the r
 It will only pin a comment if the person who is using the command also made the post that they are commenting on.
 For example, if u/python_child uses "m!pin Howdy" on u/cat_mans post, the script won't execute the command
 But, if u/python_child uses "m!pin Howdy" on his own post, the script will execute the command
+![0q7v109kaixa1](https://user-images.githubusercontent.com/112908676/236886714-34bea20c-2cef-4909-9d62-d514233aaf11.jpeg)
 
 
 ## What do I need for this script
