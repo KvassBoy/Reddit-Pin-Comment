@@ -32,7 +32,7 @@ Give it a name
 
 Select script
 
-for redirect url, you can use this github page as the redirect url. It doen't matter
+for redirect url, you can use this github page as the redirect url. It doesn't matter
 
 ### A way to run the script 24/7 
 If you don't have a device to run the script 24/7, consider checking out pythonanywhere.com
