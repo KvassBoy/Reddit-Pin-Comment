@@ -22,7 +22,8 @@ use the command
 **pip install praw**
 
 ### A reddit bot account
-(https://ssl.reddit.com/prefs/apps/
+https://ssl.reddit.com/prefs/apps/
+
 Click the link
 Go down and click "are you a developer? Create an app"
 Give it a name
