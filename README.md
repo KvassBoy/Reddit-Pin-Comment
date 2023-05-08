@@ -52,6 +52,7 @@ username = "reddit username here"
 password = "reddit account password here"
 client_id = "PUT ID HERE"
 client_secret = "PUT SECRET HERE"
+MAKE SURE THE ACCOUNT YOU ARE USING IS A MODERATOR OF THE SUBREDDIT YOU ARE SCANNING AND HAS COMMENENT PERMISSIONS!
 
 Save all the files.
 Run main.py and enjoy!
