@@ -58,6 +58,10 @@ Save all the files.
 Run main.py and enjoy!
 
 
+Notes for moderators:
+The bot needs to be a moderator on the subreddit you plan to use it on
+You can change the commanmd via changing "m!pin" on line 88
+**The bot will send a alert in mod queue when someone uses the pin command so you can make sure that the message is appropriate to your subreddit!**
 
 
-This code was partially made with Chatgpt-4. We are accepting improved edits to the code so we can make it more efficent or just have an additional features. 
+This code was partially made with Chatgpt-4. We are accepting improved edits to the code so we can make it more efficent or just have an additional features. Thank you for your time and I hope you enjoy this!
