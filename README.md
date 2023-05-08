@@ -12,20 +12,20 @@ But, if u/python_child uses "m!pin Howdy" on his own post, the script will execu
 
 
 ## What do I need for this script
-# Python installed
+### Python installed
 commands here
 
-## Pip install these
+### Pip install these
 Add pip stuff
 
-## A reddit bot account
+### A reddit bot account
 (add instructions here
 
-## A way to run the script 24/7 
+### A way to run the script 24/7 
 If you don't have a device to run the script 24/7, consider checking out pythonanywhere.com
 
 
-### How to set up
+## How to set up
 1) Download the python script
 2) Make a text file in the same location as the script. It is recommended you put the script and text file into 1 dedicated folder for the script. Make sure to put the config file in the same folder also
 3) Rename the text file as *comments_replied_to.txt*
