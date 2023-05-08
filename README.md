@@ -52,7 +52,8 @@ Grab the fancy looking ids and keep them somewhere safe to use in the script
 4) Grab the path to the text file
 5) Open up the python script in a code editor like VSCode or IDLE
 6) On line *41*, change **path = "ADD PATH FILE HERE"** to include your path
-\nFor example **path = "C:\\Users\\wondows 101\\Desktop\\m!pin\\comments_replied_to.txt"**
+
+For example *path = "C:\\Users\\wondows 101\\Desktop\\m!pin\\comments_replied_to.txt"*
 7) On line 68, change **SUBREDDIT** to the subreddit of your choice
 8) If you followed the instructions up above where it tells you how to make a reddit bot, then good. Open the config file in a code editor
 9) change the following to the proper details
