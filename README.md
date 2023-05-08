@@ -85,3 +85,9 @@ Do you have a user who keeps abusing the bot? Add their username to line 42 whic
 
 
 This code was partially made with Chatgpt-4. We are accepting improved edits to the code so we can make it more efficent or just have an additional features. Thank you for your time and I hope you enjoy this!
+
+
+Thank you to the following people for helping. You guys are awesome and deserve some cookies :D
+Go check them out!
+https://github.com/JReesW
+https://github.com/RDSSDR
