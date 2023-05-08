@@ -72,7 +72,7 @@ Run main.py and enjoy!
 
 
 
-Notes for moderators:
+## Notes for moderators:
 The bot needs to be a moderator on the subreddit you plan to use it on
 
 You can change the commanmd via changing "m!pin" on line 88
