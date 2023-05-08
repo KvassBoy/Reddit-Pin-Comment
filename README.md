@@ -25,15 +25,22 @@ use the command
 https://ssl.reddit.com/prefs/apps/
 
 Click the link
+
 Go down and click "are you a developer? Create an app"
+
 Give it a name
+
 Select script
+
 for redirect url, you can use this github page as the redirect url. It doen't matter
 
 ### A way to run the script 24/7 
 If you don't have a device to run the script 24/7, consider checking out pythonanywhere.com
+
 Click "create app"
+
 Grab the fancy looking ids and keep them somewhere safe to use in the script
+
 <img width="964" alt="Screenshot 2023-05-08 at 12 05 46 PM" src="https://user-images.githubusercontent.com/112908676/236886306-2466303c-717f-4b03-822e-fec18e52944d.png">
 
 
