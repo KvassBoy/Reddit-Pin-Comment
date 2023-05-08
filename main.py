@@ -39,7 +39,7 @@ if not os.path.exists(praw_dest_path):
         f.write(praw_ini)
 
 path = "ADD PATH FILE HERE" #path to comment file
-ignored_users = ["automoderator", "DuplicateDestroyer"]
+ignored_users = ["automoderator", "DuplicateDestroyer"] #add users to ignore here
 
 def bot_login():
 	print("Logging in...")
@@ -66,7 +66,6 @@ def bot_login():
 def run_bot(r):
 	print("Searching last 10000000000000 comments")
 	target = "SUBREDDIT"
-	#target = "test+"
 	targets = target.split("+")
 	while("" in targets):
 		targets.remove("")
@@ -110,7 +109,7 @@ def run_bot(r):
 					print(e)
 
 print("Search Completed.")
-print("Sleeping for 2000 seconds...") #Sleep for 2000 seconds...
+print("Sleeping for 10 seconds...") #Sleep for 10 seconds...
 time.sleep(10)
 
 def get_saved_comments():
