@@ -55,13 +55,19 @@ Grab the fancy looking ids and keep them somewhere safe to use in the script
 7) On line 68, change **SUBREDDIT** to the subreddit of your choice
 8) If you followed the instructions up above where it tells you how to make a reddit bot, then good. Open the config file in a code editor
 9) change the following to the proper details
+
 username = "reddit username here"
+
 password = "reddit account password here"
+
 client_id = "PUT ID HERE"
+
 client_secret = "PUT SECRET HERE"
+
 MAKE SURE THE ACCOUNT YOU ARE USING IS A MODERATOR OF THE SUBREDDIT YOU ARE SCANNING AND HAS COMMENENT PERMISSIONS!
 
 Save all the files.
+
 Run main.py and enjoy!
 
 
