@@ -13,10 +13,12 @@ But, if u/python_child uses "m!pin Howdy" on his own post, the script will execu
 
 ## What do I need for this script
 ### Python installed
-commands here
+https://www.python.org/downloads/
 
-### Pip install these
-Add pip stuff
+### Install PRAW
+Open up command prompt/terminal
+use the command
+**pip install praw**
 
 ### A reddit bot account
 (add instructions here
@@ -47,4 +49,4 @@ Run main.py and enjoy!
 
 
 
-This code was partially made with Chatgpt-4. We are accepting improved edits to the code so we can make it more efficent or just have an additional feature. 
+This code was partially made with Chatgpt-4. We are accepting improved edits to the code so we can make it more efficent or just have an additional features. 
