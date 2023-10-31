@@ -55,7 +55,7 @@ Grab the fancy looking ids and keep them somewhere safe to use in the script
 3) Add the subreddit you want to target on line 27. Make sure the bot has moderation permissions on this subreddit
     subreddit = reddit.subreddit('SUBREDDIT HERE')
 
-
+4) All done, the bot should run. Please make sure to run it in a dedicated folder or directory. The script will make a text file in the same directory/folder it runs in to keep track of comments it already replied to. If you delete this file or run the script in a folder/directory without this txt file, it could repeat the pin action to comments it has already seen.
 
 ## Notes for moderators:
 The bot needs to be a moderator on the subreddit you plan to use it on
