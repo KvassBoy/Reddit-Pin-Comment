@@ -47,44 +47,26 @@ Grab the fancy looking ids and keep them somewhere safe to use in the script
 
 ## How to set up
 1) Download the python script
-2) Make a text file in the same location as the script. It is recommended you put the script and text file into 1 dedicated folder for the script. Make sure to put the config file in the same folder also
-3) Rename the text file as *comments_replied_to.txt*
-4) Grab the path to the text file
-5) Open up the python script in a code editor like VSCode or IDLE
-6) On line *41*, change **path = "ADD PATH FILE HERE"** to include your path. For example *path = "C:\\Users\\wondows 101\\Desktop\\m!pin\\comments_replied_to.txt"*
-7) On line 68, change **SUBREDDIT** to the subreddit of your choice
-8) If you followed the instructions up above where it tells you how to make a reddit bot, then good. Open the config file in a code editor
-9) change the following to the proper details
-
-username = "reddit username here"
-
-password = "reddit account password here"
-
-client_id = "PUT ID HERE"
-
-client_secret = "PUT SECRET HERE"
-
-MAKE SURE THE ACCOUNT YOU ARE USING IS A MODERATOR OF THE SUBREDDIT YOU ARE SCANNING AND HAS COMMENT PERMISSIONS!
-
-Save all the files.
-
-Run main.py and enjoy!
+2) Open the script up and add in the details that it requests in the config on line 18 to line 22
+    client_id='CLIENT ID HERE',
+    client_secret='CLIENT SECRET HERE',
+    username='USERNAME HERE',
+    password='PASSWORD HERE',
+3) Add the subreddit you want to target on line 27. Make sure the bot has moderation permissions on this subreddit
+    subreddit = reddit.subreddit('SUBREDDIT HERE')
 
 
 
 ## Notes for moderators:
 The bot needs to be a moderator on the subreddit you plan to use it on
 
-You can change the commanmd via changing "m!pin" on line 88
-
-**The bot will send a alert in mod queue when someone uses the pin command so you can make sure that the message is appropriate to your subreddit!**
-
-Do you have a user who keeps abusing the bot? Add their username to line 42 which is a list of ignored usernames
+You can change the commanmd via changing "m!pin" to whatever throughout the script
 
 
 
+This code was made with Chatgpt-4. We are accepting improved edits to the code so we can make it more efficent or just have an additional features. Thank you for your time and I hope you enjoy this!
 
-This code was partially made with Chatgpt-4. We are accepting improved edits to the code so we can make it more efficent or just have an additional features. Thank you for your time and I hope you enjoy this!
+I am accepting feature requests
 
 
 ## Extra
